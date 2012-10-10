@@ -1,6 +1,6 @@
 package grailsapplication5
 
-class Cualquiercosa {
+class Hola {
 
     static constraints = {
     }
